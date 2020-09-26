@@ -25,6 +25,6 @@ I'll tell you what I did:
 
   Now for the fun part: how can I best prepare for my next IT job? IT is HUGE and there are so many things to learn. I narrowed the topics down to help me focus on what was relevant to the career I was working towards. Computer networking, information security, Linux, scripting, and cloud. I decided to do a lot of research into each topic, study from various resources while applying the concepts, and validate the knowledge I gained by earning industry certifications.
   
-  I started learning about networking in order to prepare for the CompTIA Network+ CE certification. I knew I wouldn't learn everything about how networks are set up and managed but I got a solid understand of the basics such as IP address, subnet, gateway, DNS, DHCP, and tons of other terminology. (Who would've thought that the acronym for Wireless Access Point would mean something totally different now). I used Professor Messer's videos and
+  I started learning about networking in order to prepare for the CompTIA Network+ CE certification. I knew I wouldn't learn everything about how networks are set up and managed but I got a solid understand of the basics such as IP address, subnet, gateway, DNS, DHCP, and tons of other terminology (who would've thought that the acronym for Wireless Access Point would mean something totally different now). I used Professor Messer's videos and
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![rhcsa.png]({{ site.baseurl }}/images/rhcsa.png)
