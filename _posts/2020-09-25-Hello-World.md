@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Here's what I've been up to
+title: Here's what I've been up to...
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+You're me and just became unemployed because of a crazy pandemic. What do you do?
+
+I'll tell you what I did:
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
