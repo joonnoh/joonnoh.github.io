@@ -13,8 +13,8 @@ I love all things tech and am pursuing a career in cloud and security.
 
 In my free time, you'll find me in the backyard on my Macbook watching YouTube videos of the latest gadgets while my dog sunbathes by my side.
 Or you might catch me on my custom built PC playing games on an ultrawide monitor and RGB mechanical keyboard.
-But usually, I'll be tinkering with Linux VMs figuring out how this thing works.
+But usually, I'll be tinkering with Linux VMs figuring out how this stuff works.
 
-### if you want to talk...
+### if you want to chat...
 
 [joonn@vt.edu](mailto:joonn@vt.edu)
