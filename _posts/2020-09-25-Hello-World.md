@@ -16,8 +16,10 @@ Lesson learned: Comparison is the thief of joy.
 2. Healthy mind and body
 
 After neglecting my health for several years, I set a plan in motion to improve myself. If there's one thing I can change that no one else can, it is my own thoughts and actions. I've sunk into several depressive episodes and struggled many times to pick myself up and keep going. I accepted my flaws and failures and changed how I perceived the world. It took time and effort to develop a positive attitude and forward thinking mindset, but it's worth it as I'm calmer and more balanced.
-I started with walking every day and it eventually progressed to buying a set of adjustable dumbbells to work out at home. Then I made a plan to build more muscle, consume less calories, and eat a well-rounded diet. Of course I still ate the occasional pizza and fried chicken but less frequently. Then I started running using the Couch to 5K app. As of writing, I've lost about 15 pounds and I'm still working towards my target weight! It's a combination of mental fortitude and physical activity that have helped me progress this far.
+I started with walking every day and it eventually progressed to buying a set of adjustable dumbbells to work out at home. Then I made a plan to build more muscle, consume less calories, and eat a well-rounded diet. Of course I still ate the occasional pizza and fried chicken but less frequently. Then I started running using the Couch to 5K app. As of writing, I've lost about 15 pounds and I'm still working towards my target weight! It's a combination of mental fortitude and consistent physical activity that have helped me progress this far.
 
 Lesson learned: Don't rely solely on motivation. Discipline yourself to do the hard things so that motivation won't be the deciding factor when you feel lazy or discouraged.
+
+3. 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
