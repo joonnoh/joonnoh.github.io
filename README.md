@@ -1,5 +1,5 @@
 # Joon's GitHub Pages blog site
-# Forked from Jekyll Now
+Forked from Jekyll Now
 
 # Jekyll Now
 
