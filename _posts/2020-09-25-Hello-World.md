@@ -33,6 +33,10 @@ I'll tell you what I did:
   
   At this point, I wanted solid knowledge and experience using the Linux operating system. I saw many people suggesting the Red Hat Certified System Administrator (RHCSA) as a great entry level Linux certification. This was definitely the most challenging and time consuming of the bunch but well worth it. Since it's a practical exam, there is hardly any guessing involved. But because I spent day after day using RHEL8 virtual machines and practicing the objectives, I passed the exam! I highly recommend this material for anyone looking to a structured way of learning Linux administration. It's a different kind of feeling when you can edit files, set up repositories and install software, manage users and groups, and perform many more tasks using only the command line. I used Asghar Ghori's preparation guide as my main resource and supplemented with Sander van Vugt and YouTube videos.
 
-![rhcsa.png]({{ site.baseurl }}/images/rhcsa.png){ width=50% }
+![rhcsa.png]({{ site.baseurl }}/images/rhcsa.png{ width=50% })
 
   The last certification I earned was Amazon Web Services Certified Cloud Practitioner. I learned about the many AWS services and how the most popular ones are used. It's impressive how Amazon has created a global infrastructure to deliver their product and I'm excited to learn more about the technical aspects of their cloud services. I found video courses on Udemy by Stephane Maarek and a set of 6 practice exams to be super helpful.
+  
+  Afterwards, I set up an environment to learn Python and practiced writing scripts. I have a good understanding of the basics of programming and developed an application in C# at my previous job. Using Python and Bash to automate tasks is something I'm continually improving on. I'm reading Automate the Boring Stuff and completed a crash course on Python from Google instructors on Coursera. I've also been following the subreddit linuxupskillchallenge where I use AWS EC2 instance for an Ubuntu server and administer tasks. I'm currently working on the Cloud Resume Challenge which you can find at [injoonuity.com](https://injoonuity.com)
+  
+  > Lesson learned: Don't earn certifications for the sake of it. Try to learn the material and apply it in projects and daily use.
