@@ -40,3 +40,5 @@ I'll tell you what I did:
   Afterwards, I set up an environment to learn Python and practiced writing scripts. I have a good understanding of the basics of programming and developed an application in C# at my previous job. Using Python and Bash to automate tasks is something I'm continually improving on. I'm reading Automate the Boring Stuff and completed a crash course on Python from Google instructors on Coursera. I've also been following the subreddit linuxupskillchallenge where I use AWS EC2 instance for an Ubuntu server and administer tasks. I'm currently working on the Cloud Resume Challenge which you can find at [injoonuity.com](https://injoonuity.com)
   
   > Lesson learned: Don't earn certifications for the sake of it. Try to learn the material and apply it in projects and daily use.
+  
+I hope you got something out of this post. Thanks for reading!
